@@ -1,1 +1,2 @@
 # OIB-SIB_Task-3
+Data cleaning, also known as data cleansing or data scrubbing, is a crucial step in data analytics that involves identifying and correcting inaccuracies, inconsistencies, and errors in a dataset. The goal of data cleaning is to ensure that the data is accurate, complete, and reliable before it is used for analysis or modeling. This process helps to improve the quality of the data and the validity of the insights derived from it.
